@@ -22,7 +22,7 @@ The tools we cover in this section include:
 * Jupyter Notebook
 * Anaconda
 * Git
-* GitHub
+* [GitHub](https://github.com/signup)
 
 You have actually already been using all of these tools "under the hood", but these lessons will walk through what they are all used for and how to install and use them on your computer.
 
